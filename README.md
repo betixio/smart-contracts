@@ -1,13 +1,7 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Betix Smart Contracts
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![App Screenshot](https://864027940-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsAQRQSNGe4Z8gkIZOAU7%2Fuploads%2FiGfyRO5ZDrcp8XeAWOTV%2FBettix_Graph.jpg?alt=media&token=85aa21c0-329e-40c2-86eb-45af8c8dbab1)
+
+
